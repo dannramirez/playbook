@@ -1,11 +1,13 @@
-console.log("Objetos")
+console.log("Objetos");
 
 // Ejemplo 1: Crear un objeto
+console.log('\n--------------------------------------------------------------------------');
 const myObjetc = {} // Esto es un objeto vacío
 console.log("Ejemplo 1: Crear un objeto vacío")
 console.log(myObjetc)
 
 // Ejemplo 2: Crear un objeto con propiedades
+console.log('\n--------------------------------------------------------------------------');
 const myObjetc2 = {
     name: "Dann",
     age: 27
@@ -15,6 +17,7 @@ console.log(myObjetc2)
 
 
 // Ejemplo 3: Objeto con diferentes propiedades
+console.log('\n--------------------------------------------------------------------------');
 const myObject3 = {
     name: "Gundus",
     age: 3,
@@ -36,6 +39,7 @@ console.log(myObject3["address"])
 
 
 // Ejemplo 4: Objeto con métodos
+console.log('\n--------------------------------------------------------------------------');
 const pet = {
     name: "Gundus",
     // Esta es una función que se guarda como propiedad
@@ -49,6 +53,7 @@ console.log("Ejemplo 4: Objeto con métodos")
 pet.sayHello()
 
   // Ejemplo 5: Objeto con método que recibe parámetros
+  console.log('\n--------------------------------------------------------------------------');
   const myPet = {
     name: "Gundus",
     sayHelloToMyPet: function(yourPet){
