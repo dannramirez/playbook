@@ -106,3 +106,9 @@ const scores12 = [
 const score_less_than_80 = scores12.find((user) => user.score > 80);
 console.log("Ejemplo 12. Name score found:" + score_less_than_80.name);
 
+// Ejemplo 13: Uso de findIndex, este método regresa la posición del primer elemento que cumpla con la validación que indiques.
+console.log('\n--------------------------------------------------------------------------');
+const names13 = ['Explorer 1', 'Explorer 2', 'Explorer 3'];
+const result = names13.findIndex((name) => name.length > 7);
+console.log("Ejemplo 13: Primer elemento cuya palabra sea mayor a 7 esta en la posición "+ result);
+
