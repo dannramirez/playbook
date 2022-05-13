@@ -6,6 +6,6 @@ Proyectos desarrollados en la semana 4:
 | ------------------ | :-------: | -----------------------------------------------------------------------: |
 | `fizzbuzz - Refactoring - API - New Requirement`       |     1 - 2 - 3     | [Link al repo](https://github.com/dannramirez/fizzbuz_LaunchX) |
 | `Contribution Open Source`             |     4     | [Link al repo](https://github.com/dannramirez/fizzbuzz) |
-| `Code Challenge` |     5  | [Link al repo](https://github.com/dannramirez/) |
+| `Code Challenge` |     5  | [Link al repo](https://github.com/dannramirez/code_challengeLaunchX) |
 | `Trello`         |     6     | [Link al repo](https://github.com/dannramirez/) |
 | `Trello JS Fork` |     7     | [Link al repo](https://github.com/dannramirez/) |
